@@ -1,7 +1,7 @@
 # Team Charter - Hashira 
 
 ## Team Members 
-- [اسم العضو 1]
+- Doaa Allaham 
 - [اسم العضو 2]
 - [اسم العضو 3]
 - [اسم العضو 4]
