@@ -2,13 +2,13 @@
 
 ## Team Members 
 - Doaa Allaham 
-- [اسم العضو 2]
+- tasneemabunada
 - [اسم العضو 3]
 - [اسم العضو 4]
 
 ## Communication Rules
 - التواصل عبر [Slack / WhatsApp / Discord].
-- اجتماع أسبوعي يوم [السبت] الساعة [8:00 م].
+- اجتماع أسبوعي يوم [الاثنين] الساعة [2:00م].
 - كل عضو يرسل تحديث تقدّمه في القناة العامة.
 
 ## Coding Standards
