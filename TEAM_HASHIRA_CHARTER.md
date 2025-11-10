@@ -2,12 +2,13 @@
 
 ## Team Members 
 - Doaa Allaham 
-- tasneemabunada
+- Tasneem Abu nada
 - Alaa Mousa
-- [اسم العضو 4]
+- Elham Hasan
+- Walaa Elwan
 
 ## Communication Rules
-- التواصل عبر [Slack / WhatsApp / Discord].
+- التواصل عبر [Slack / WhatsApp ].
 - اجتماع أسبوعي يوم [الاثنين] الساعة [2:00م].
 - كل عضو يرسل تحديث تقدّمه في القناة العامة.
 
@@ -18,7 +19,7 @@
 
 ## Git Branching Strategy
 - الفرع الرئيسي: `main`
-- كل عضو ينشئ فرع جديد باسمه: `feature-[name]`
+- كل عضو ينشئ فرع جديد بالتغيير المطلوب: `feature-[ .. ]`
 - عمل Pull Request لمراجعة التغييرات قبل الدمج.
 
 ## Roles
